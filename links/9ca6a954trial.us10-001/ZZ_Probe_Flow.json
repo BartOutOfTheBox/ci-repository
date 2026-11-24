@@ -1,0 +1,9 @@
+{
+  "format": 1,
+  "tenant": "9ca6a954trial.us10-001",
+  "artifactId": "ZZ_Probe_Flow",
+  "branch": "jira/SAP-12345",
+  "syncPoint": "10a4676c442856d35a0811ddcbda3b9517aaede2",
+  "changedBy": "BartOutOfTheBox",
+  "changedAt": "2026-11-24T18:36:57.222Z"
+}
